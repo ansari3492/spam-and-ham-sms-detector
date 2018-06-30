@@ -12,3 +12,4 @@ Use different approaches to establish relation between the text and the category
 size of message, word count, special keywords. Then build classification models using different techniques 
 to distinguish spam sms. Compare accuracy of each technique and plot the accuracy graphs in a single bar plot.
 Also generate a word-cloud for spam SMS. Sample spam word cloud generated
+and also use a flask framework with the html page link you entered any message in the text box and click  on submit button and then you go on the flask server http://localhost:3000/check this project is interesting
